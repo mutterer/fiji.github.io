@@ -67,6 +67,12 @@
             "imgUrl": "https://sjc1.discourse-cdn.com/business4/uploads/imagej/original/3X/2/2/229085d893a3f9da7122f23fa9a68cf20be00327.png"
         },
         {
+            "name": "FigureJ",
+            "description": "Easy article figures with links to original images and processing history",
+            "link": "https://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:figurej:start",
+            "imgUrl": "https://raw.githubusercontent.com/mutterer/figurej/master/images/figurej_poster.png"
+        },
+        {
             "name": "Microscope Image Focus Quality Classifier",
             "description": "Predict image focus quality and certainty patch by patch without any user-specified parameters.",
             "link": "https://imagej.net/Microscope_Focus_Quality",
